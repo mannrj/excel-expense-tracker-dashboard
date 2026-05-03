@@ -29,7 +29,7 @@ An Excel-based expense tracking and reporting dashboard designed to support accu
 
 ### Dashboard Overview
 
-[Dashboard](screenshots/Dashboard Sheet.png)
+![Dashboard](screenshots/Dashboard_Sheet.png)
 
 ### Pie Chart
 ![Pie Chart](screenshots/pie-chart.png)
