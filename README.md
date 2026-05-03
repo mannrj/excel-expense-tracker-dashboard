@@ -28,17 +28,17 @@ An Excel-based expense tracking and reporting dashboard designed to support accu
 ## 📷 Dashboard Preview
 
 ### Expenses Sheet
-![Dashboard](screenshots/Expenses_Sheet.png)
+![Expenses Sheet](screenshots/Expenses_Sheet.png)
 
 ### List Sheet with Categories and Contents
-![Dashboard](screenshots/List_Sheet_Categories_and_Contents.png)
+![List Sheet](screenshots/List_Sheet_Categories_and_Contents.png)
 
 ### Dashboard Overview
 
-![Dashboard](screenshots/Dashboard_Sheet.png)
+![Dashboard Sheet](screenshots/Dashboard_Sheet.png)
 
 ### Pie Chart
-![Dashboard](screenshots/Pie_Chart.png)
+![Pie Chart](screenshots/Pie_Chart.png)
 
 ### Bar Chart
 ![Bar Chart](screenshots/Bar_Chart.png)
