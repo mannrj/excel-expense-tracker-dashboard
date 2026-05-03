@@ -63,3 +63,5 @@ An Excel-based expense tracking and reporting dashboard designed to support accu
 Download and review the Excel project files here:
 
 https://github.com/mannrj/excel-expense-tracker-dashboard
+
+Select the green **<> CODE** button then **Download ZIP**.
