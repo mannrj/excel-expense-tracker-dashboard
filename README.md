@@ -43,6 +43,9 @@ An Excel-based expense tracking and reporting dashboard designed to support accu
 ### Bar Chart
 ![Bar Chart](screenshots/Bar_Chart.png)
 
+### Approved Purchases
+![Approved Purchases](screenshots/Approved_Purchases.png)
+
 ---
 
 ## 🎯 Skills Demonstrated
