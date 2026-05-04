@@ -30,6 +30,22 @@ An Excel-based expense tracking and reporting dashboard designed to support accu
 ### Expenses Sheet
 ![Expenses Sheet](screenshots/Expenses_Sheet.png)
 
+#### Data Entry Dropdown Selections
+
+##### Category
+![Category Dropdown](screenshots/Category_Dropdown.png)
+
+##### Payment
+![Payment Dropdown](screenshots/Payment_Dropdown.png)
+
+##### Status
+![Status Dropdown](screenshots/Status_Dropdown.png)
+
+##### Vendor
+![Vendor Dropdown](screenshots/Vendor_Dropdown.png)
+
+
+
 ### List Sheet with Categories and Contents
 ![List Sheet](screenshots/List_Sheet_Categories_and_Contents.png)
 
